@@ -1,3 +1,5 @@
+
+```{r }
 ---
 title: "Assignment week2"
 output: html_document
@@ -100,6 +102,5 @@ plot(weekend$totalsteps, type = "l", xlab = 'interval', ylab = 'mean steps', yli
 
 
 We see that the activity on weekdays differs from activity in the weekend. In the weekends, activity 'starts' later and there is more activity in the evening.
-
-
+```
 
